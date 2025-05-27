@@ -25,3 +25,11 @@ https://pan.baidu.com/s/1TcuO5Xb0NGkgl4GCaJWiAA?pwd=must
 ## Citation
 
 If you use this benchmark in your research, please cite this project.
+
+
+## License
+This repository contains two components with different licenses:
+
+Our **code** is released under the [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE).
+
+The **HRSSD dataset** is licensed under [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/). It is intended for academic research only. You must attribute the original source, and you are not allowed to modify or redistribute the dataset without permission.
